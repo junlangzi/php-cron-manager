@@ -240,7 +240,6 @@ $stmt->close();
 <body>
     <div class="container">
         <h1>Quản lý Cron Links</h1>
-        <center><h2><a href="index.php" style="text-decoration:none">Trở về trang quản trị</a></h2></center>
 
         <!-- Thông báo -->
         <?php if ($message): ?>
